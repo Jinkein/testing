@@ -1,0 +1,1 @@
+This a chapter 3. I am thinking of open the chrome file and write today quote. Then get back to git learning.
